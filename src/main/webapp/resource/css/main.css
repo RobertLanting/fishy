@@ -1,0 +1,35 @@
+
+main {
+    text-align: center;
+}
+
+.formlogin {
+    margin-top: 300px;
+}
+
+.info {
+    text-align: left;
+    width: 500px;
+}
+
+.aqua {
+    text-align: center;
+    display: inline-block;
+}
+
+.box {
+    margin-bottom: 50px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.boxes {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.user {
+    display: inline-flex;
+}
+
